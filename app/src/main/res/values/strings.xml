@@ -9,4 +9,9 @@
 
     <string name="first_crime_str">First crime</string>
     <string name="last_crime_str">Last crime</string>
+
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
 </resources>
